@@ -25,5 +25,8 @@ To move from *using* deep learning to actually understanding it:
 ---
 
 ## Outcome
-After this project, neural networks stopped feeling like magic — they became differentiable functions trained with calculus.
+After this project, I
+ - Understood how Nerual nets work
+ - Built inuition for backpropagation
+ - Can now read and understand DL papers and implement with more confidence
 
